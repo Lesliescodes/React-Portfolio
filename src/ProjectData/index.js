@@ -1,14 +1,7 @@
-//import  from '../assets/images/gamego.png';
-
+import noteTaker from '../assets/images/Note Taker note page.JPG';
+import codeQuiz from '../assets/images/codequiz3.JPG';
 
 const data = [
-    {
-        name: 'Budget Tracker',
-        github: 'https://github.com/Lesliescodes/budgetTracker',
-        deploy: '',
-        photo: ""
-    },
-
     {
         name: 'Note Taker',
         github: 'https://github.com/Lesliescodes/note-taker',
