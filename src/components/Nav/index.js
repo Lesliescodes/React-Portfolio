@@ -9,16 +9,16 @@ const Nav = () => {
                 <nav>
                     <ul>
                         <li>
-                            <Link to='/about'>About</Link>
+                            <Link to='../About'>About</Link>
                         </li>
                         <li>
-                            <Link to='/project'>Projects</Link>
+                            <Link to='../Project'>Projects</Link>
                         </li>
                         <li>
-                            <Link to='/contact'>Contact</Link>
+                            <Link to='../Contact'>Contact</Link>
                         </li>
                         <li>
-                            <Link to='/resume'>Resume</Link>
+                            <Link to='../Resume'>Resume</Link>
                         </li>
                     </ul>
                 </nav>
