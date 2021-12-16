@@ -22,8 +22,7 @@ npm run seed
 ```sh
 npm start
 ```
-## Heroku
-https://shrouded-temple-00165.herokuapp.com/
+
 ## License
 
 MIT
